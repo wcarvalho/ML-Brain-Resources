@@ -19,8 +19,8 @@
   * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) - Course by Stephen Boyd
 
 * Books/PDFs
-  * Short: [11-page review](http://www.cns.nyu.edu/~eero/math-tools/Handouts/geomLinAlg.pdf) by Computational Neuroscientist Eero Simonecilli @ NYU
-  * Medium-length: [58-page Appendix on Linear Algebra](http://www.cns.nyu.edu/~eero/math-tools14/Handouts/linalg_jordan_86.pdf) from the Parallel Distributed Processing book series, by Michael Jordan
+  * [11-page review](http://www.cns.nyu.edu/~eero/math-tools/Handouts/geomLinAlg.pdf) by Computational Neuroscientist Eero Simonecilli @ NYU
+  * [58-page Appendix on Linear Algebra](http://www.cns.nyu.edu/~eero/math-tools14/Handouts/linalg_jordan_86.pdf) from the Parallel Distributed Processing book series, by Michael Jordan
 
 ### Statistics
 * **MIT OCW Course: [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/) - REALY GOOD**
