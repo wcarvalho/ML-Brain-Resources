@@ -33,5 +33,5 @@
 ---
 
 # Misc. (e.g. Data Analysis, Research)
-1. [Fundamental of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
+1. [Fundamental of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization) - by Professor of Integrative Biology at The University of Texas at Austin
 2. edX - Harvard: [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
