@@ -1,12 +1,8 @@
-# 4\. Advanced Math Courses
+# [Table of Contents](/ML-Brain-Resources)
 
-Advanced Calculus
+## Advanced Math Courses
 
-  * Books:  
+### Advanced Calculus
 
+  * Books:
     * James Munkres: Analysis on Manifolds
-
-
-
-  
-
