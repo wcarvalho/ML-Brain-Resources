@@ -1,7 +1,7 @@
 # Table of Contents
 
   1. [Fundamental Math Courses](/ML-Brain-Resources/fundamental_math)
-  2. [Brain-science Resources](evernote:///view/137625819/s306/ee997eba-f59c-415b-b42b-12af0404aef0/ee997eba-f59c-415b-b42b-12af0404aef0/)
+  2. [Brain-science Resources](/ML-Brain-Resources/brain)
   3. [Advanced Machine Learning/AI/Statistics](evernote:///view/137625819/s306/cbbf1e79-c8e6-4236-8898-4bdb27075060/cbbf1e79-c8e6-4236-8898-4bdb27075060/)
   4. [Advanced Math Courses](evernote:///view/137625819/s306/096491c3-2a18-4400-b6e6-3c6aba0bc9c4/096491c3-2a18-4400-b6e6-3c6aba0bc9c4/)
   5. [Research](evernote:///view/137625819/s306/6e2aebf4-e73b-4b21-bb0b-1918508e9942/6e2aebf4-e73b-4b21-bb0b-1918508e9942/)[ skills (e.g. Data Analysis, Reading Papers)](evernote:///view/137625819/s306/6e2aebf4-e73b-4b21-bb0b-1918508e9942/6e2aebf4-e73b-4b21-bb0b-1918508e9942/)
