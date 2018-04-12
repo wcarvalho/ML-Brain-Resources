@@ -2,10 +2,10 @@
 
   1. [Fundamental Math Courses](/ML-Brain-Resources/fundamental_math)
   2. [Brain-science Resources](/ML-Brain-Resources/brain)
-  3. [Advanced Machine Learning/AI/Statistics](evernote:///view/137625819/s306/cbbf1e79-c8e6-4236-8898-4bdb27075060/cbbf1e79-c8e6-4236-8898-4bdb27075060/)
-  4. [Advanced Math Courses](evernote:///view/137625819/s306/096491c3-2a18-4400-b6e6-3c6aba0bc9c4/096491c3-2a18-4400-b6e6-3c6aba0bc9c4/)
-  5. [Research](evernote:///view/137625819/s306/6e2aebf4-e73b-4b21-bb0b-1918508e9942/6e2aebf4-e73b-4b21-bb0b-1918508e9942/)[ skills (e.g. Data Analysis, Reading Papers)](evernote:///view/137625819/s306/6e2aebf4-e73b-4b21-bb0b-1918508e9942/6e2aebf4-e73b-4b21-bb0b-1918508e9942/)
-  6. [Meta-skills (e.g. Working Habits)](evernote:///view/137625819/s306/219c8300-c511-422f-b389-2c987d1958a7/219c8300-c511-422f-b389-2c987d1958a7/)
+  3. [Advanced Machine Learning/AI/Statistics](/ML-Brain-Resources/advanced_ml)
+  4. [Advanced Math Courses](/ML-Brain-Resources/advanced_math)
+  5. [Research Skills](/ML-Brain-Resources/research_skills)
+  6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
 
 ---
 
