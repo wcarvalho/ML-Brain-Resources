@@ -3,6 +3,7 @@
 ## Fundamental Math Courses
 
 ### Probability
+
   * pre-requirements: None
   * Online Courses
     * **edX MIT Course - [Introduction to Probability - The Science of Uncertainty](ttps://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - RECOMMENDED**
@@ -12,6 +13,7 @@
 
 
 ### Linear Algebra
+
   * pre-requirements: None
   * Online Course: 
     * **MIT OCW Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (lectures, hws, exams, solutions available) - RECOMMENDED**
@@ -25,6 +27,7 @@
 
 
 ### Statistics
+
   * pre-requirements: Probability, Linear Algebra
   * Recommended Book Sequence:
     * [An Introduction to Statistical Learning, with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) (more intuition, less math)
@@ -38,6 +41,7 @@
 
 
 ### Convex Optimization
+
   * pre-requirements: Probability, Linear Algebra
   * **[Convex Optimization Class](https://web.stanford.edu/~boyd/cvxbook/), [Lectures](http://stanford.edu/class/ee364a/lectures.html) - RECOMMENDED**
     * Courses: [EE364A](http://www.stanford.edu/class/ee364a) (Stanford) or [EE236B](http://www.ee.ucla.edu/ee236b) (UCLA)

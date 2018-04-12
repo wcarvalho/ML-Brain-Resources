@@ -7,7 +7,7 @@
   5. [Research Skills](/ML-Brain-Resources/research_skills)
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
 
----
+* * *
 
 # External Resources
 
