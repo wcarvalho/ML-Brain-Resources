@@ -1,10 +1,10 @@
 # Table of Contents
 
   1. [Fundamental Math Courses](/ML-Brain-Resources/fundamental_math)
-  2. [Brain-science Resources](/ML-Brain-Resources/brain)
+  2. [Neuroscience, Cognitive Science, etc.](/ML-Brain-Resources/brain)
   3. [Advanced Machine Learning/AI/Statistics](/ML-Brain-Resources/advanced_ml)
-  4. [Advanced Math Courses](/ML-Brain-Resources/advanced_math)
-  5. [Research Skills](/ML-Brain-Resources/research_skills)
+  4. [Research Skills](/ML-Brain-Resources/research_skills)
+  5. [Advanced Math Courses](/ML-Brain-Resources/advanced_math)
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
 
 * * *

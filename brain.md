@@ -1,6 +1,6 @@
 # [Table of Contents](/ML-Brain-Resources)
 
-## Brain Resources (Neuroscience, Cognitive Science, etc.)
+## Neuroscience, Cognitive Science, etc.
 
 ### Computational/Theoretical Neuroscience
 
