@@ -4,7 +4,7 @@
 
 ### Computational Research Skills
 
-  * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) \- Harvard - EdX 
+  * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) - Harvard - EdX 
 
 
 

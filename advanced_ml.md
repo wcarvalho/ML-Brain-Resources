@@ -32,16 +32,19 @@
     * Pattern Recognition and Machine Learning: Ch 1-4 (Christopher Bishop)
     * Probabilistic Graphical Models (Daphne Koller)
 
+### Machine Learning Coding Tutorials 
+  * [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
+  * [MILA PyTorch Tutorials](https://github.com/mila-udem/welcome_tutorials) - Introductory Machine Learning Tutorials from Yoshua Bengio's Lab
 
 
 ### Reinforcement Learning 
 
-  * [Deep RL Bootcamp (12 lectures)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+  * [Deep RL Bootcamp 2017 (12 lectures)](https://sites.google.com/view/deep-rl-bootcamp/lectures)
   * Courses:
-    * [Abbeel Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+    * [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
     * [David Silver's RL Class](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
   * Books
-    1. **Richard S. Sutton: Reinforcement Learning: An Introduction - RECOMMENDED**
+    1. **Richard S. Sutton: Reinforcement Learning: An Introduction - Bible of RL - RECOMMENDED**
     1. Dimitri Bertsekas: Neuro-dynamic programming - short and math-focused
 
 
