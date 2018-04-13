@@ -5,10 +5,19 @@
 ### Computational Research Skills
 
   * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) \- Harvard - EdX 
-  * [Fundamental of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
 
 
-<!-- ### Writing -->
+
+### Communicating Quantitative Information
+
+  * [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
+  * **[The Visual Display Of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte - bible for displaying quantitative information - RECOMMENDED**
+
+
+### Writing
+
+  * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
 
 ### Reading Technical Papers
 
