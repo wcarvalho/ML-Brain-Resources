@@ -6,10 +6,17 @@
   4. [Research Skills](/ML-Brain-Resources/research_skills)
   5. [Advanced Math Courses](/ML-Brain-Resources/advanced_math)
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
+  6. [Datasets](/ML-Brain-Resources/datasets)
 
 * * *
 
 # External Resources
+
+## General Self-Study
+  
+  * [Metacademy](https://metacademy.org/) - organized resources and roadmaps for self-studying various topics led by Professor Roger Grosse @ The University of Toronto
+    * [Course Guides](https://metacademy.org/course_guides/)
+    * [Roadmaps](https://metacademy.org/roadmaps/)
 
 ## PhD/Research Advice
 

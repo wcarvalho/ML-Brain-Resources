@@ -48,6 +48,9 @@
       * [1st Edition, 1998](http://incompleteideas.net/book/the-book-1st.html)
       * [2nd Edition, 2018, complete draft available!](http://incompleteideas.net/book/the-book-2nd.html)
       * recommended for deep RL: (1, 3, 4, 6, 9, 10, 11, 13)
+      * Suggested Followup
+        * [Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf), by Csaba Szepesvari
+
     1. Dimitri Bertsekas: Neuro-dynamic programming - short and math-focused
 
 
