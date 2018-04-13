@@ -2,6 +2,12 @@
 
 ## Research skills (e.g. Data Analysis, Reading Papers)
 
+### PhD Advice
+
+  * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
+    * a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later
+    * continuously updated from 1997 to 2017
+
 ### Computational Research Skills
 
   * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) - Harvard - EdX 
@@ -18,6 +24,7 @@
 
   * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
+  * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
 
 ### Reading Technical Papers
 
