@@ -1,6 +1,6 @@
 # [Table of Contents](/ML-Brain-Resources)
 
-## Advanced Math Courses
+## More Advanced Math Courses
 
 ### Advanced Calculus
 
