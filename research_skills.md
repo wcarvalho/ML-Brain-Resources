@@ -4,8 +4,7 @@
 
 ### PhD Advice
 
-  * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
-    * a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later
+  * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html) a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later
     * continuously updated from 1997 to 2017
 
 ### Computational Research Skills
@@ -16,7 +15,7 @@
 
 ### Communicating Quantitative Information
 
-  * [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
+  * [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization) by Claus Wilke, Professor at The University of Texas at Austin
   * **[The Visual Display Of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte - bible for displaying quantitative information - RECOMMENDED**
 
 

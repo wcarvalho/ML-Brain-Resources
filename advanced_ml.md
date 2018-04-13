@@ -45,6 +45,7 @@
     * [David Silver's RL Class](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
   * Books
     1. **Richard S. Sutton: Reinforcement Learning: An Introduction - Bible of RL - RECOMMENDED**
+      * recommended for deep RL: (1, 3, 4, 6, 9, 10, 11, 13)
     1. Dimitri Bertsekas: Neuro-dynamic programming - short and math-focused
 
 

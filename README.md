@@ -11,6 +11,10 @@
 
 # External Resources
 
+## PhD/Research Advice
+
+  * [Articles about Research and Phd Advice](https://github.com/smilli/research-advice)
+
 ## AI/Machine Learning
 
   * [Machine Learning Tutorials](https://www.cs.virginia.edu/yanjun/list2LearnLearning.htm) by Professor Yanjun Qi of UVA
