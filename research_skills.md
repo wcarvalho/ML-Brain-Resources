@@ -4,28 +4,35 @@
 
 ### Career Advice
 
-  * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html) a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later
-    * continuously updated from 1997 to 2017
+  * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html) a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later (continuously updated from 1997 to 2017)
+  * [Nature: Convert your weaknesses into assets](https://www.nature.com/articles/d41586-018-04162-9) - career advice after/during postdoc
 
-### Computational Research Courses
-
-  * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) - Harvard - EdX 
-  * [Calling Bullshit: Data Reasoning in a Digital World](http://callingbullshit.org/syllabus.html) - Syllabus (w/ links to readings) for course at Univ of Washington
+### Computational Research
+  
+  * Online Courses:
+    * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) - Harvard - EdX 
+    * [Calling Bullshit: Data Reasoning in a Digital World](http://callingbullshit.org/syllabus.html) - Syllabus (w/ links to readings) for course at Univ of Washington
+  * Books:
+    * 
 
 ### Writing/Publishing
 
-#### Publishing science papers
+#### Publishing science
 
   * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
 
-#### Publishing **interactive** science papers
+#### Publishing **interactive** science
   
-  * [Colaboratory](https://colab.research.google.com/) - Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud with free GPUs.
-  * [Jupyterlab](https://github.com/jupyterlab/jupyterlab) - similar to colaboratory
-  * [CodaLab](https://worksheets.codalab.org/) - A collaborative platform for reproducible research. Papers from conferences (e.g. ICLR, NIPS, ACL) are published using this platform.
-  * [Data-Driven Documents](https://d3js.org/)
+  * publishing papers:
+    * [Colaboratory](https://colab.research.google.com/) - Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud with free GPUs.
+    * [Jupyterlab](https://github.com/jupyterlab/jupyterlab) - similar to colaboratory
+    * [CodaLab](https://worksheets.codalab.org/) - A collaborative platform for reproducible research. Papers from conferences (e.g. ICLR, NIPS, ACL) are published using this platform.
+  * publishing books:
+    * [Open Review Toolkid](http://www.openreviewtoolkit.org/) - let's you turn your manuscript into a website so everyone can read and annotate your manuscript - sounds amazing
+  * publishing websites:
+    * [Data-Driven Documents](https://d3js.org/)
 
 #### Communicating (Graphing) Quantitative Information
 

@@ -3,10 +3,10 @@
   1. [Fundamental Math Courses](/ML-Brain-Resources/fundamental_math)
   2. [Neuroscience, Cognitive Science, etc.](/ML-Brain-Resources/brain)
   3. [Machine Learning/AI](/ML-Brain-Resources/advanced_ml)
-  4. [Research Skills](/ML-Brain-Resources/research_skills)
+  4. [Research](/ML-Brain-Resources/research_skills)
+  7. [Datasets](/ML-Brain-Resources/datasets)
   5. [More Advanced Math Courses](/ML-Brain-Resources/advanced_math)
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
-  7. [Datasets](/ML-Brain-Resources/datasets)
   <!-- 7. [Software](/ML-Brain-Resources/software) -->
 
 * * *

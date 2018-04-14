@@ -10,9 +10,10 @@
     * Reinforcement Learning and the Basal Ganglia (Yael Niv)
   * Online Courses
     * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) (Cox)
+    * [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/index.htm)
+    * [Visual object recognition: computational and biological mechanisms](http://klab.tch.harvard.edu/academia/classes/hms_neuro300_vision/hms_neuro300_vision.html#sthash.ImHm9Rjg.dpbs)
   * Tutorials
     * [A tutorial on the free-energy framework for modelling perception and learning](http://ac.els-cdn.com/S0022249615000759/1-s2.0-S0022249615000759-main.pdf?_tid=76bcb744-9a6b-11e7-a53f-00000aab0f02&acdnat=1505517380_dcc053b0a0d3e31305be2bfcac3bc0e0) (Bogacz) - relevant if you’re interested in Karl Friston’s Active Inference
-
 
 
 ### Computational Cognitive Science
