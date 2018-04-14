@@ -7,7 +7,7 @@
   5. [More Advanced Math Courses](/ML-Brain-Resources/advanced_math)
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
   7. [Datasets](/ML-Brain-Resources/datasets)
-  7. [Software](/ML-Brain-Resources/software)
+  <!-- 7. [Software](/ML-Brain-Resources/software) -->
 
 * * *
 
@@ -17,7 +17,7 @@
   
   * [Metacademy](https://metacademy.org/) - organized resources and roadmaps for self-studying various topics led by Professor Roger Grosse @ The University of Toronto
     * [Course Guides](https://metacademy.org/course_guides/)
-    * [Roadmaps](https://metacademy.org/roadmaps/)
+    * [Roadmaps](https://metacademy.org/roadmaps/) (e.g. Differential geometry for machine learning, programming, etc.)
 
 ## PhD/Research Advice
 
@@ -28,6 +28,7 @@
   * [Machine Learning Tutorials](https://www.cs.virginia.edu/yanjun/list2LearnLearning.htm) by Professor Yanjun Qi of UVA
   * [Collection of Tutorials on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html) by Professor Peter Orbanz of Columbia
   * [Machine Learning Videos](https://github.com/dustinvtran/ml-videos) by Dustrin Tran of Google
+  * [Deep Learning Reading List](http://deeplearning.net/reading-list/)
   * [AI Reading List. includes ML, philosophy, logic, etc](https://80000hours.org/ai-safety-syllabus/#undergraduate-degree)
 
 
