@@ -9,6 +9,10 @@
   6. [Meta-skills (e.g. Working Habits)](/ML-Brain-Resources/meta_skills)
   <!-- 7. [Software](/ML-Brain-Resources/software) -->
 
+If you'd like to add to this, please submit a pull request on [Github](https://github.com/wcarvalho/ML-Brain-Resources) or send me an email with content at wcarvalho92@gmail.com.
+
+-- [Wilka Carvalho](https://wcarvalho.github.io/)
+
 * * *
 
 # External Resources
