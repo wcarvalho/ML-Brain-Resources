@@ -23,6 +23,7 @@
   * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
+  * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
 
 #### Publishing **interactive** science
   
