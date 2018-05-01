@@ -2,12 +2,17 @@
 
 ## Research (e.g. Data Analysis, Reading Papers)
 
+## General
+
+  * [Taking a Systematic approach To Your literature Review](https://us.sagepub.com/sites/default/files/upm-binaries/78595_Booth_Taking_a_Systematic_Approach_to_Your_Literature_Review.pdf)
+  * [How to write paragraphs in research texts (articles, books and PhDs)](http://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/)
+
 ### Career Advice
 
   * [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html) a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later (continuously updated from 1997 to 2017)
   * [Nature: Convert your weaknesses into assets](https://www.nature.com/articles/d41586-018-04162-9) - career advice after/during postdoc
   * <a href="http://www.cell.com/neuron/abstract/S0896-6273(13)00907-0">Neuron: How to Pick a Graduate Advisor</a>
-  * 
+  * [How to be a good researcher](https://drive.google.com/file/d/0Bzis5MXW83vCVUpIMDRVTm5CcHc/view )
 
 ### Computational Research
   
@@ -24,6 +29,8 @@
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
   * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
+  * Books:
+    * The Elements of Style by William Strunk Jr.
 
 #### Publishing **interactive** science
   
@@ -49,3 +56,6 @@
 ### Cognitive Science/Neuroscience Tools
 
   * [Dallinger (for Mechanical Turk)](http://docs.dallinger.io/en/v3.4.1/) - Laboratory automation for the behavioral and social sciences
+
+### Fellowships
+  * [U Chicago Fellowship Database](http://grad.uchicago.edu/grad_fellowships_funding/fellowship_database/)
