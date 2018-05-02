@@ -5,6 +5,10 @@
   * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets#time-series) - A topic-centric list of high-quality open datasets in public domains
   * [public data sets](https://github.com/curran/data) - A collection of public data sets for testing out visualization methods. @ various stages of preparation
 
+## Cognitive Science/Neuroscience Tools
+
+  * [Dallinger (for Mechanical Turk)](http://docs.dallinger.io/en/v3.4.1/) - Laboratory automation for the behavioral and social sciences
+
 ## Cognitive Science Datasets
 
   * [Data on the Mind](http://www.dataonthemind.org/data-resources/datasets) - Datasets on human activity led by Professor Tom Griffiths @ UC Berkeley

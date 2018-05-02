@@ -31,10 +31,9 @@
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
     * Pattern Recognition and Machine Learning: Ch 1-4 (Christopher Bishop)
     * Probabilistic Graphical Models (Daphne Koller)
-
-### Machine Learning Coding Tutorials 
-  * [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
-  * [MILA PyTorch Tutorials](https://github.com/mila-udem/welcome_tutorials) - Introductory Machine Learning Tutorials from Yoshua Bengio's Lab
+  *  **Coding Tutorials**
+    * [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
+    * [MILA PyTorch Tutorials](https://github.com/mila-udem/welcome_tutorials) - Introductory Machine Learning Tutorials from Yoshua Bengio's Lab
 
 
 
@@ -76,3 +75,12 @@
     * [Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) - covers topics such as VAEs, GANs, Invertible Density Estimation, Autoregressive Models - lists papers and motivations for them for each topic
     * [Probabilistic Learning and Reasoning](http://www.cs.toronto.edu/~jessebett/CSC412/) - how to build, fit, and do inference with probabilistic models 
     * [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/) - how to learn model structure and represent data using mixed discrete and continuous data structures such as lists of vectors, graphs, or even programs (seems useful for probabilistic programming)
+
+## External Sources
+
+  * [Machine Learning Tutorials](https://www.cs.virginia.edu/yanjun/list2LearnLearning.htm) by Professor Yanjun Qi of UVA
+  * [Collection of Tutorials on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html) by Professor Peter Orbanz of Columbia
+  * [Machine Learning Videos](https://github.com/dustinvtran/ml-videos) by Dustrin Tran of Google
+  * [Deep Learning Reading List](http://deeplearning.net/reading-list/)
+  * [AI Reading List. includes ML, philosophy, logic, etc](https://80000hours.org/ai-safety-syllabus/#undergraduate-degree)
+
