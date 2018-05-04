@@ -31,6 +31,9 @@
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
     * Pattern Recognition and Machine Learning: Ch 1-4 (Christopher Bishop)
     * Probabilistic Graphical Models (Daphne Koller)
+  * Software
+    * [Pytorch](https://pytorch.org/)
+    * [Tensorflow](https://www.tensorflow.org/)
   *  **Coding Tutorials**
     * [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
     * [MILA PyTorch Tutorials](https://github.com/mila-udem/welcome_tutorials) - Introductory Machine Learning Tutorials from Yoshua Bengio's Lab
@@ -68,13 +71,19 @@
     * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
     * Pattern Recognition and Machine Learning: Ch 8-9
     * [Deep Learning Book](http://www.deeplearningbook.org/): Part III
-    * Causal Inference in Statistics: A Primer 1st Edition. (Introduction to causality)
-  * Papers/Tutorials/Reviews:
-    * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - by David Blei
   * Online Courses:
     * [Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) - covers topics such as VAEs, GANs, Invertible Density Estimation, Autoregressive Models - lists papers and motivations for them for each topic
     * [Probabilistic Learning and Reasoning](http://www.cs.toronto.edu/~jessebett/CSC412/) - how to build, fit, and do inference with probabilistic models 
     * [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/) - how to learn model structure and represent data using mixed discrete and continuous data structures such as lists of vectors, graphs, or even programs (seems useful for probabilistic programming)
+
+### Probabilistic Programming
+  * Books:
+    * Causal Inference in Statistics: A Primer 1st Edition. (Introduction to causality)
+  * Papers/Tutorials/Reviews:
+    * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - by David Blei
+  * also see [Cognitive Science/Neuroscience page](/ML-Brain-Resources/brain) - many of those use/teach probabilistic programming
+  * Software:
+    * [Pyro](http://pyro.ai/) by Uber - probabilistic programming atop pytorch
 
 ## External Sources
 
