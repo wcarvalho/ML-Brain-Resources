@@ -6,7 +6,7 @@
   7. [Datasets/Tools](/ML-Brain-Resources/datasets)
   5. [More Advanced Math Courses](/ML-Brain-Resources/advanced_math)
 
-You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources) page. 
+You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
 
 
 If you'd like to add to this, please submit a pull request on [Github](https://github.com/wcarvalho/ML-Brain-Resources) or send me an email with content at wcarvalho92@gmail.com.

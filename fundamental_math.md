@@ -34,9 +34,10 @@
       * [Online Class](http://online.stanford.edu/course/statistical-learning-self-paced)
     * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) (more rigorous)
   * Online Courses
-    * **[Stanford S](https://stats200.stanford.edu/index.html)[tatistics 200: Introduction to Statistical Inference](https://stats200.stanford.edu/index.html) (more rigorous, has solutions for psets/exams) - RECOMMENDED**
-    * MIT OCW Course - [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/) (more rigorous, lacks solutions for psets/exams)
-    * [Stanford: Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced) (less rigorous, everything available online) 
+    * **[Stanford Statistics 200: Introduction to Statistical Inference](https://stats200.stanford.edu/index.html) (more rigorous, has solutions for psets/exams) - RECOMMENDED**
+    * MIT OCW Course - [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/) (more rigorous, lacks solutions for psets/exams) - proof based
+      * con: doesn't teach intuition for complex math. requires mathematical maturity.
+    * [Stanford: Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced) (less rigorous, everything available online) - good beginner course. more intuition, less math.
 
 
 
