@@ -34,7 +34,7 @@
   * Software
     * [Pytorch](https://pytorch.org/)
     * [Tensorflow](https://www.tensorflow.org/)
-  *  **Coding Tutorials**
+  * **Coding Tutorials**
     * [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
     * [MILA PyTorch Tutorials](https://github.com/mila-udem/welcome_tutorials) - Introductory Machine Learning Tutorials from Yoshua Bengio's Lab
 
