@@ -5,6 +5,7 @@
   3. [Machine Learning/AI](/ML-Brain-Resources/advanced_ml)
   7. [Datasets/Tools](/ML-Brain-Resources/datasets)
   5. [More Advanced Math Courses](/ML-Brain-Resources/advanced_math)
+  6. [Conferences](/ML-Brain-Resources/conferences)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
 
