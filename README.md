@@ -3,8 +3,9 @@
   1. [Fundamental Math Courses](/ML-Brain-Resources/fundamental_math)
   2. [Neuroscience, Cognitive Science, etc.](/ML-Brain-Resources/brain)
   3. [Machine Learning/AI](/ML-Brain-Resources/advanced_ml)
+  5. [More Math Courses](/ML-Brain-Resources/advanced_math)
   7. [Datasets/Tools](/ML-Brain-Resources/datasets)
-  5. [More Advanced Math Courses](/ML-Brain-Resources/advanced_math)
+  7. [Doing ML Research](/ML-Brain-Resources/research)
   6. [Conferences](/ML-Brain-Resources/conferences)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
