@@ -7,3 +7,20 @@
 * [Guidelines for Writing a Good NIPS Paper
 ] (https://nips.cc/Conferences/2014/PaperInformation/EvaluationCriteria)
 * [Machine Learning that Matters](https://icml.cc/2012/papers/298.pdf)
+
+
+## Conferences
+
+### Cognitive Science
+
+
+### Neuroscience
+* Cosyne
+
+### AI
+* IJCAI
+
+### Machine Learning
+* NIPS
+* ICML
+* ICLR
