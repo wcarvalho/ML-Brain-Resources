@@ -14,6 +14,7 @@
     * [Visual object recognition: computational and biological mechanisms](http://klab.tch.harvard.edu/academia/classes/hms_neuro300_vision/hms_neuro300_vision.html#sthash.ImHm9Rjg.dpbs)
   * Tutorials
     * [A tutorial on the free-energy framework for modelling perception and learning](http://ac.els-cdn.com/S0022249615000759/1-s2.0-S0022249615000759-main.pdf?_tid=76bcb744-9a6b-11e7-a53f-00000aab0f02&acdnat=1505517380_dcc053b0a0d3e31305be2bfcac3bc0e0) (Bogacz) - relevant if you’re interested in Karl Friston’s Active Inference
+    * [Biological Neural Networks – Part I, Spiking Neurons](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/) by Jack Terwilliger, Research Associate @ MIT
 
 
 ### Computational Cognitive Science
