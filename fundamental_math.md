@@ -2,6 +2,9 @@
 
 ## Fundamental Math Courses
 
+  * [NYU DS-GA 1002: Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html) - Breadth Course covering Probability, linear algebra, statistics, and optimization. Recommend doing each individually below
+
+
 ### Probability
 
   * pre-requirements: None
@@ -38,6 +41,7 @@
     * MIT OCW Course - [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/) (more rigorous, lacks solutions for psets/exams) - proof based
       * con: doesn't teach intuition for complex math. requires mathematical maturity.
     * [Stanford: Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced) (less rigorous, everything available online) - good beginner course. more intuition, less math.
+
 
 
 
