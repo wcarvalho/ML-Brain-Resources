@@ -92,4 +92,6 @@
   * [Machine Learning Videos](https://github.com/dustinvtran/ml-videos) by Dustrin Tran of Google
   * [Deep Learning Reading List](http://deeplearning.net/reading-list/)
   * [AI Reading List. includes ML, philosophy, logic, etc](https://80000hours.org/ai-safety-syllabus/#undergraduate-degree)
+  * [Fast.ai Deep Learning: Part 1](http://course.fast.ai/)
+  * [Fast.ai Deep Learning: Part 2](http://course.fast.ai/part2.html)
 
