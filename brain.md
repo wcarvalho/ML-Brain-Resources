@@ -24,6 +24,7 @@
     * [Computation and Cognition: the Probabilistic Approach](http://cocolab.stanford.edu/psych204-fall2016.html) (Goodman)
     * [Probabilistic Models of Cognition](http://probmods.org/) (Goodman)
     * [Models Agents with Probabilistic Programs](https://agentmodels.org/)
+    * [Advancing AI through cognitive science](https://brendenlake.github.io/AAI-site/) (Brenden Lake)
   * Tutorials
     1. [A tutorial on Gaussian processes](https://ericschulz.github.io/publications/Schulz2017tutorial.pdf) (Schulz) - oriented towards psychologists
     2. [A tutorial on Bayesian nonparametric models](http://www.sciencedirect.com/science/article/pii/S002224961100071X)  (Gershman) - includes discussion on models for cognitions and oriented towards psychologists
