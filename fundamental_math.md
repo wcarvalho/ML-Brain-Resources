@@ -1,10 +1,12 @@
 # [Table of Contents](/ML-Brain-Resources)
 
-## Fundamental Math Courses
+# Fundamental Math Courses
 
+## All topics in one resource
   * [NYU DS-GA 1002: Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html) - Breadth Course covering Probability, linear algebra, statistics, and optimization. Recommend doing each individually below
   * [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth (Assistant Professor at Imperial College London)
 
+## Individual Classes/Books per resource
 
 ### Probability
 
