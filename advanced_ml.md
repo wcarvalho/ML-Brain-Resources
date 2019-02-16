@@ -9,7 +9,6 @@
 
 
 ### Useful Math for Machine Learning
-<<<<<<< HEAD
   * Online Courses
     * Statistical Thinking and Inference
       * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
@@ -21,15 +20,7 @@
   * Books
     * Probability Theory: The Logic of Science by E. T. Jaynes 
     * Information Theory, Inference, and Learning Algorithms by David Mackay
-=======
-  * Statistical Thinking and Inference
-    * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
-    * [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) - edX - MIT (Archived - Can be viewed but a certificate can't be earned as of now)
-  * Matrix Methods: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
-    * Courses: [EE103](http://www.stanford.edu/class/ee103) (Stanford) and [EE133A](http://www.seas.ucla.edu/~vandenbe/ee133a.html) (UCLA)
-  * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) by Jeremy Howard of Fast.AI
-  * [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strogatz of Cornell - Good if want to study RNNs
->>>>>>> 08d644732e05b0b067246eed8f324cd500c07697
+
 
 
 
