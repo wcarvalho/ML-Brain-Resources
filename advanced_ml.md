@@ -9,6 +9,7 @@
 
 
 ### Useful Math for Machine Learning
+<<<<<<< HEAD
   * Online Courses
     * Statistical Thinking and Inference
       * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
@@ -20,6 +21,15 @@
   * Books
     * Probability Theory: The Logic of Science by E. T. Jaynes 
     * Information Theory, Inference, and Learning Algorithms by David Mackay
+=======
+  * Statistical Thinking and Inference
+    * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
+    * [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) - edX - MIT (Archived - Can be viewed but a certificate can't be earned as of now)
+  * Matrix Methods: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+    * Courses: [EE103](http://www.stanford.edu/class/ee103) (Stanford) and [EE133A](http://www.seas.ucla.edu/~vandenbe/ee133a.html) (UCLA)
+  * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) by Jeremy Howard of Fast.AI
+  * [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strogatz of Cornell - Good if want to study RNNs
+>>>>>>> 08d644732e05b0b067246eed8f324cd500c07697
 
 
 
@@ -28,7 +38,7 @@
   * Online Courses:
     1. [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
     2. **[Stanford Course](http://cs229.stanford.edu/materials.html)  - notes, review, problem sets w/ solutions - RECOMMENDED**
-    1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. slides+video. coding+math hw - (Nando Freitas)
+    1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. Slides+Video. Coding+Math HW - (Nando Freitas)
     2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects
   * Book:
     * **Kevin Murphy: Machine Learning - RECOMMENDED**
@@ -66,14 +76,14 @@
       * recommended for deep RL: (1, 3, 4, 6, 9, 10, 11, 13)
       * Suggested follow-up: [Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari
 
-    1. Dimitri Bertsekas: Neuro-dynamic programming - short and math-focused
+    2. Dimitri Bertsekas: Neuro-dynamic programming - short and math-focused
 
 
 ### Generative Models
 
   * Books:
     * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-    * Pattern Recognition and Machine Learning: Ch 8-9
+    * [Pattern Recognition and Machine Learning](https://www.springer.com/in/book/9780387310732)
     * [Deep Learning Book](http://www.deeplearningbook.org/): Part III
     * [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference)
   * Online Courses:
@@ -97,4 +107,6 @@
   * [Machine Learning Videos](https://github.com/dustinvtran/ml-videos) by Dustrin Tran of Google
   * [Deep Learning Reading List](http://deeplearning.net/reading-list/)
   * [AI Reading List. includes ML, philosophy, logic, etc](https://80000hours.org/ai-safety-syllabus/#undergraduate-degree)
+  * [Fast.ai Deep Learning: Part 1](http://course.fast.ai/)
+  * [Fast.ai Deep Learning: Part 2](http://course.fast.ai/part2.html)
 
