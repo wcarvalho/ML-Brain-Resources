@@ -23,3 +23,6 @@ If you'd like to add to this, please submit a pull request on [Github](https://g
     * [Course Guides](https://metacademy.org/course_guides/)
     * [Roadmaps](https://metacademy.org/roadmaps/) (e.g. Differential geometry for machine learning, programming, etc.)
 
+## Other people's resource pages
+
+  * [Qihong Lu](https://qihongl.github.io/resources.html) - neuroscience PhD student @ Princeton

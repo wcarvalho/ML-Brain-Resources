@@ -2,6 +2,7 @@
 
 ## Tools
   * [Explain-Shell](https://explainshell.com/) - explains every part of a bash terminal command
+  * [Continuous screen recorder for Mac, jump back anytime](https://dejavideo.app/)
 
 ## Meta-"datasets"
   * [Data Packaged Core Datasets](https://github.com/datasets) - Important, commonly-used datasets in high quality, easy-to-use & open form as data packages
@@ -39,3 +40,7 @@
   * [Gym](https://gym.openai.com/) by OpenAI
   * [Gym Retro](https://github.com/openai/retro) by OpenAI - 1000+ games + their tools for analysis
   * [VGL](https://github.com/schaul/py-vgdl) - high-level video game description language (let's you treat game objects as primitives in python)
+
+
+### Multi-agent modeling
+  * [MAME](https://www.mamedev.org/) - streetfighter

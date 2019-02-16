@@ -9,13 +9,17 @@
 
 
 ### Useful Math for Machine Learning
-  * Statistical Thinking and Inference
-    * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
-    * [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) - edX - MIT
-  * Matrix Methods: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
-    * Courses: [EE103](http://www.stanford.edu/class/ee103) (Stanford) and [EE133A](http://www.seas.ucla.edu/~vandenbe/ee133a.html) (UCLA)
-  * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) by Jeremy Howard of Fast.AI
-  * [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strogatz of Cornell - Good if want to study RNNs
+  * Online Courses
+    * Statistical Thinking and Inference
+      * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) - edX - MIT
+      * [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) - edX - MIT
+    * Matrix Methods: [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+      * Courses: [EE103](http://www.stanford.edu/class/ee103) (Stanford) and [EE133A](http://www.seas.ucla.edu/~vandenbe/ee133a.html) (UCLA)
+    * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) by Jeremy Howard of Fast.AI
+    * [Nonlinear Dynamics and Chaos](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strogatz of Cornell - Good if want to study RNNs
+  * Books
+    * Probability Theory: The Logic of Science by E. T. Jaynes 
+    * Information Theory, Inference, and Learning Algorithms by David Mackay
 
 
 
@@ -71,6 +75,7 @@
     * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
     * Pattern Recognition and Machine Learning: Ch 8-9
     * [Deep Learning Book](http://www.deeplearningbook.org/): Part III
+    * [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference)
   * Online Courses:
     * [Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) - covers topics such as VAEs, GANs, Invertible Density Estimation, Autoregressive Models - lists papers and motivations for them for each topic
     * [Probabilistic Learning and Reasoning](http://www.cs.toronto.edu/~jessebett/CSC412/) - how to build, fit, and do inference with probabilistic models 
