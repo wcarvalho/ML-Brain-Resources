@@ -80,7 +80,8 @@
   * Online Courses:
     * [Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) - covers topics such as VAEs, GANs, Invertible Density Estimation, Autoregressive Models - lists papers and motivations for them for each topic
     * [Probabilistic Learning and Reasoning](http://www.cs.toronto.edu/~jessebett/CSC412/) - how to build, fit, and do inference with probabilistic models 
-    * [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/) - how to learn model structure and represent data using mixed discrete and continuous data structures such as lists of vectors, graphs, or even programs (seems useful for probabilistic programming)
+    * [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/) - how to learn model structure and represent data using mixed discrete and continuous data structures such as lists of vectors, graphs, or even programs (seems useful for probabilistic programming) - @Toronto by Professor David Duvenaud
+    * [CS294-158 Deep Unsupervised Learning Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home) - Berkeley Course by Pieter Abbeel
 
 ### Probabilistic Programming
   * Books:
