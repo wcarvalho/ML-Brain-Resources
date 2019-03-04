@@ -4,7 +4,7 @@
   2. [Neuroscience, Cognitive Science, etc.](/ML-Brain-Resources/brain)
   3. [Machine Learning/AI](/ML-Brain-Resources/advanced_ml)
   5. [More Math Courses](/ML-Brain-Resources/advanced_math)
-  7. [Datasets/Tools](/ML-Brain-Resources/datasets)
+  7. [Datasets](/ML-Brain-Resources/datasets)
   7. [Doing Research](/ML-Brain-Resources/research)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
