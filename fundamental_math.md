@@ -14,6 +14,9 @@
   * Online Courses
     * **edX MIT Course - [Introduction to Probability - The Science of Uncertainty](ttps://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - RECOMMENDED**
     * MIT OCW Course: [Probabilistic](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) [Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+    * EXCELLENT THEORETICAL YET PRACTICAL SERIES by Michael Betancourt
+      * [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
+      * [Conditional Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
   * Books: 
     * [A First Course in Probability](http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf) by Sheldon Ross
 

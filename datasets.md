@@ -15,7 +15,7 @@
 ### Datasets
   * [parlai](http://parl.ai/) - platform for dialog and reading comprehension tasks by Facebook (NLP)
   * [MAME](https://www.mamedev.org/) - street-fighter (Multi-agent modeling)
-  * [Extensible, parallel implementation of t-sne](https://github.com/pavlin-policar/openTSNE)
+  * [Extensible, parallel implementation of T-SNE](https://github.com/pavlin-policar/openTSNE)
   * [General Question Answering](https://cs.stanford.edu/people/dorarad/gqa/) - large, diverse dataset for visual question answering
 
 

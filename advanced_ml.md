@@ -20,6 +20,7 @@
   * Books
     * Probability Theory: The Logic of Science by E. T. Jaynes 
     * Information Theory, Inference, and Learning Algorithms by David Mackay
+    * **Online Book: [Mathematical for Machine Learning](https://mml-book.github.io/)**
 
 
 
