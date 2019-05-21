@@ -17,6 +17,7 @@
     * EXCELLENT THEORETICAL YET PRACTICAL SERIES by Michael Betancourt
       * [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
       * [Conditional Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
+      * [Probabilistic Modeling and Statistical Inference](https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html)
   * Books: 
     * [A First Course in Probability](http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf) by Sheldon Ross
 
