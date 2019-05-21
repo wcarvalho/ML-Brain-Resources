@@ -52,6 +52,7 @@
   * Courses:
     1. **[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) - RECOMMENDED**
     1. Stanford: [probabilistic graphical models](https://ermongroup.github.io/cs228-notes/) by Stefano Ermon (builds up to first-principles introduction of VAE)
+    1. [Deep Learning Specialization - deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) - less technical but good introduction to Deep Learning from Andrew Ng's Deep Learning Specialization course
 
 
 

@@ -20,6 +20,7 @@
       * [Probabilistic Modeling and Statistical Inference](https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html)
   * Books: 
     * [A First Course in Probability](http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf) by Sheldon Ross
+    * [Monte Carlo theory, methods and examples](https://statweb.stanford.edu/~owen/mc/) (last 2 chapters on Variance reduction and Importance sampling are particularly useful in machine learning)
 
 
 
