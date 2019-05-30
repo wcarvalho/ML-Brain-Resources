@@ -32,6 +32,7 @@
     2. **[Stanford Course](http://cs229.stanford.edu/materials.html)  - notes, review, problem sets w/ solutions - RECOMMENDED**
     1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. Slides+Video. Coding+Math HW - (Nando Freitas)
     2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects
+    1. [MIT Deep Learning  by Lex Friedman](https://deeplearning.mit.edu/) - seems like a good resources with code tutorials and video lectures that cover what's current and the tricks to get things working.
   * Book:
     * **Kevin Murphy: Machine Learning - RECOMMENDED**
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
