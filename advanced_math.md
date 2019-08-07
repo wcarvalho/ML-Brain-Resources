@@ -1,11 +1,9 @@
 # [Table of Contents](/ML-Brain-Resources)
 
-## More Advanced Math Courses
-
-### Advanced Calculus
-
   * Books:
-    * James Munkres: Analysis on Manifolds
+    * Calculus: James Munkres: Analysis on Manifolds
+    * Calculus: [Elementary Calculus: An Infinitesimal Approach](https://www.math.wisc.edu/~keisler/calc.html)
+    * Functional Analysis: [Elements of the Theory of Functions and Functional Analysis](https://www.amazon.com/Elements-Functions-Functional-Analysis-Mathematics/dp/0486406830)
 
 ### Probability 
   * Books:

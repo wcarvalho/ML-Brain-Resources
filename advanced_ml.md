@@ -20,7 +20,9 @@
   * Books
     * Probability Theory: The Logic of Science by E. T. Jaynes 
     * Information Theory, Inference, and Learning Algorithms by David Mackay
-    * **Online Book: [Mathematical for Machine Learning](https://mml-book.github.io/)**
+    * **Online Book: [Mathematical for Machine Learning](https://mml-book.github.io/)** (By Professors @ Imperial College London)
+    * **Online Book: [Optimization for Machine Learning](https://drive.google.com/file/d/1GIDnw7T-NT4Do3eC0B5kYJlzwOs6nzIO/view)** (By Elad Hazan, Professor @ Princeton, Google Brain Research Scientist)
+
 
 
 
@@ -33,6 +35,7 @@
     1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. Slides+Video. Coding+Math HW - (Nando Freitas)
     2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects
     1. [MIT Deep Learning  by Lex Friedman](https://deeplearning.mit.edu/) - seems like a good resources with code tutorials and video lectures that cover what's current and the tricks to get things working.
+    2. [Meta-Learning Reading List](https://docs.google.com/document/d/1TT-rTb6WWB0hN5coRnGFWvSytk3P912O6jJC5T0Mbn4/edit)
   * Book:
     * **Kevin Murphy: Machine Learning - RECOMMENDED**
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
@@ -54,6 +57,7 @@
     1. **[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) - RECOMMENDED**
     1. Stanford: [probabilistic graphical models](https://ermongroup.github.io/cs228-notes/) by Stefano Ermon (builds up to first-principles introduction of VAE)
     1. [Deep Learning Specialization - deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) - less technical but good introduction to Deep Learning from Andrew Ng's Deep Learning Specialization course
+
 
 
 
