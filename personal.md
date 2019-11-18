@@ -36,11 +36,18 @@ Blog Posts
 ## Monte Carlo
 
 * [MCMC intution for everyone](https://towardsdatascience.com/mcmc-intuition-for-everyone-5ae79fff22b1)
-* [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html) (endorsed by Princeton Professor)
-  * [Langrangian and Hamiltonian dynamics introduction](https://nisheethvishnoi.wordpress.com/) (by Princeton Professor)
+* Hamiltonian Monte Carlo
+  * [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html) (endorsed by Princeton Professor)
+    * [Langrangian and Hamiltonian dynamics introduction](https://nisheethvishnoi.wordpress.com/) (by Princeton Professor)
+  * [The beginners guide to Hamiltonian Monte Carlo](https://bayesianbrad.github.io/posts/2019_hmc.html) by PhD Student in Machine Learning
 
 
 
 ## GANs
 
 * [Depth First learning - InfoGan](http://www.depthfirstlearning.com/2018/InfoGAN)
+
+
+## Deep Learning General
+
+* [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks)

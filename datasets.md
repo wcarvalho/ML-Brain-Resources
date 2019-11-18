@@ -49,5 +49,6 @@
 ### Neuroscience Datasets
 
   * [Brain Map](http://www.brain-map.org/) - Data collected by the Allen Brain Atlas
+  * [NeuroQuery](https://neuroquery.org/) - given a query, it visually shows what parts of the brain have been related along with corresponding papers
 
 
