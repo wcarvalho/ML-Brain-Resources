@@ -9,6 +9,7 @@
 
 ## Normalizing Flows
 
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762) - recommended by David Duvenaud
 * [Eric Jang's tutorial](https://blog.evjang.com/2018/01/nf1.html)
 * [Lil Log blog post on Flow Based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
 
