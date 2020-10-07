@@ -7,6 +7,7 @@
   7. [Datasets](/ML-Brain-Resources/datasets)
   7. [Doing Research](/ML-Brain-Resources/research)
   8. [Personal List of Resources by Topic](/ML-Brain-Resources/personal)
+  9. [Problem Solving (e.g. Debugging)](/ML-Brain-Resources/problem-solving)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
 
