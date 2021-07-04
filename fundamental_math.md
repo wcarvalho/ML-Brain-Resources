@@ -12,6 +12,7 @@
 
   * pre-requirements: None
   * Online Courses
+    * [**Harvard - Statistics 110: Probability**](https://projects.iq.harvard.edu/stat110) 
     * **edX MIT Course - [Introduction to Probability - The Science of Uncertainty](ttps://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - RECOMMENDED**
     * MIT OCW Course: [Probabilistic](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) [Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
     * EXCELLENT THEORETICAL YET PRACTICAL SERIES by Michael Betancourt

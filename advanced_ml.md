@@ -33,11 +33,10 @@
     1. [Google Machine Learning Crash Course - 15 hours](https://developers.google.com/machine-learning/crash-course/)
     2. **[Stanford Course](http://cs229.stanford.edu/materials.html)  - notes, review, problem sets w/ solutions - RECOMMENDED**
     1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. Slides+Video. Coding+Math HW - (Nando Freitas)
-    2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects
-    1. [MIT Deep Learning  by Lex Friedman](https://deeplearning.mit.edu/) - seems like a good resources with code tutorials and video lectures that cover what's current and the tricks to get things working.
-    2. [Meta-Learning Reading List](https://docs.google.com/document/d/1TT-rTb6WWB0hN5coRnGFWvSytk3P912O6jJC5T0Mbn4/edit)
+    <!-- 2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects -->
   * Book:
     * **Kevin Murphy: Machine Learning - RECOMMENDED**
+    * [Patterns, predictions, and actions: A story about machine learning](https://arxiv.org/abs/2102.05242?s=09) - Moritz Hardt, Benjamin Recht.
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
     * Pattern Recognition and Machine Learning: Ch 1-4 (Christopher Bishop)
     * Probabilistic Graphical Models (Daphne Koller)
@@ -59,6 +58,7 @@
     1. [Deep Learning Specialization - deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) - less technical but good introduction to Deep Learning from Andrew Ng's Deep Learning Specialization course
   * Useful Notes:
     1. [Optimization for deep learning: theory and algorithms](https://arxiv.org/abs/1912.08957)
+    1. [MIT Deep Learning  by Lex Friedman](https://deeplearning.mit.edu/) - seems like a good resources with code tutorials and video lectures that cover what's current and the tricks to get things working.
 
 
 
@@ -100,6 +100,13 @@
   * also see [Cognitive Science/Neuroscience page](/ML-Brain-Resources/brain) - many of those use/teach probabilistic programming
   * Software:
     * [Pyro](http://pyro.ai/) by Uber - probabilistic programming atop pytorch
+
+
+### Misc.
+
+    1. Graph Neural Neworks: [Geometric Deep Learning](https://geometricdeeplearning.com/) by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković
+    2. [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/pdf/2005.03675.pdf)
+    2. [Meta-Learning Reading List](https://docs.google.com/document/d/1TT-rTb6WWB0hN5coRnGFWvSytk3P912O6jJC5T0Mbn4/edit)
 
 ## External Sources
 
