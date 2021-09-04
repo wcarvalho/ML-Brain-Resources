@@ -35,7 +35,8 @@
     1. [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - 16 lectures. Slides+Video. Coding+Math HW - (Nando Freitas)
     <!-- 2. [Michigan Machine Learning Course](https://github.com/junhyukoh/umich-eecs545-lectures) - lectures are interactive jupyter notebooks, no hw/projects -->
   * Book:
-    * **Kevin Murphy: Machine Learning - RECOMMENDED**
+    * [\[2102.05242\] Patterns, predictions, and actions: A story about machine learning](https://arxiv.org/abs/2102.05242?s=09) - Graduate ML Textbook by Ben Recht
+	* **Kevin Murphy: Machine Learning - RECOMMENDED**
     * [Patterns, predictions, and actions: A story about machine learning](https://arxiv.org/abs/2102.05242?s=09) - Moritz Hardt, Benjamin Recht.
     * The Elements of Statistical Learning: Data Mining, Inference, and Prediction
     * Pattern Recognition and Machine Learning: Ch 1-4 (Christopher Bishop)

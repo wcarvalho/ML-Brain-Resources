@@ -34,7 +34,7 @@ Blog Posts
 
 
 
-## Monte Carlo
+## Monte Carlo 
 
 * [MCMC intution for everyone](https://towardsdatascience.com/mcmc-intuition-for-everyone-5ae79fff22b1)
 * Hamiltonian Monte Carlo
@@ -52,3 +52,9 @@ Blog Posts
 ## Deep Learning General
 
 * [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks)
+
+
+## Graph Neural Networks
+* [Graph Representation Learning for Algorithmic Reasoning](https://www.youtube.com/watch?v=IPQ6CPoluok&ab_channel=PetarVeli%C4%8Dkovi%C4%87) [1 hour talk]
+* [Michael Bronstein blog posts](https://towardsdatascience.com/@michael.bronstein)
+* [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc&ab_channel=PetarVeli%C4%8Dkovi%C4%87) [1.25 hr talk]

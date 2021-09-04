@@ -11,6 +11,10 @@
   * [BrainFacts](http://www.brainfacts.org/) - Initiative to disseminate information on Brain run by Gatsby Institute, Kavli Foundation, & Society for Neuroscience
     * [Interactive 3D Brain](http://www.brainfacts.org/3d-brain) - very informative!
 
+### Computer Vision
+* [GradCam](https://github.com/jacobgil/pytorch-grad-cam)
+![[Pasted image 20210821181209.png]]
+
 ### Natural Language Processing
 
   * [parlai](http://parl.ai/) - platform for dialog and reading comprehension tasks by Facebook

@@ -6,8 +6,9 @@
   5. [More Math Courses](/ML-Brain-Resources/advanced_math)
   7. [Datasets](/ML-Brain-Resources/datasets)
   7. [Doing Research](/ML-Brain-Resources/research)
-  8. [Personal List of Resources by Topic](/ML-Brain-Resources/personal)
-  9. [Problem Solving (e.g. Debugging)](/ML-Brain-Resources/problem-solving)
+  8. [Writing Papers](/ML-Brain-Resources/writing-papers)
+  9. [Personal List of Resources by Topic](/ML-Brain-Resources/personal)
+  10. [Problem Solving (e.g. Debugging)](/ML-Brain-Resources/problem-solving)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
 
