@@ -9,6 +9,7 @@
   8. [Writing Papers](/ML-Brain-Resources/writing-papers)
   9. [Personal List of Resources by Topic](/ML-Brain-Resources/personal)
   10. [Problem Solving (e.g. Debugging)](/ML-Brain-Resources/problem-solving)
+  10. [Codebases](/ML-Brain-Resources/codebases)
 
 You might also be interested in my [PhD Resources](https://wcarvalho.github.io/Phd-Resources/) page. 
 
